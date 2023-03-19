@@ -1,6 +1,6 @@
 # fmeserverinstall
 
-~~use at own risk, this is not a complete/universal solution~~
+## use at own risk, this is not a complete/universal solution
 
 Example script to extract and install fme server with a DB on a seperate machine
 - extracts installer
